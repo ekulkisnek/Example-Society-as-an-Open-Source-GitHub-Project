@@ -18,40 +18,6 @@ Use
 Discussions
 Search
 
-Issues: 
-Proposals 
-infra build
-policy change
-budget allocation
-facilitate and measure and open source contribution
-accelerating technological progress
-space and rules to develop culture
-measurement of economic and cultural capital
-bottleneck capital coordination (human, cultural, financial)
-bottleneck speed of physical construction
-communication technologies
-financial technologies
-mass manufacturing technologies
-internet and crypto
-tools to coordinate groups
-collaborating with governments government relations
-team- former heads of state, veteran city builders (developed 3 US cities >100k residents) 
-rule changes that unlock technological progress in areas including energy (nuclear), AI, crypto, manufacturing, and more. 
-Negotiated initial terms with governments.
-composition - Most talented people in the world - founders, engineers, researchers, artists - based in 69 countries and 268 cities. Thousands have committed deposits towards moving. 
-realizing the potential energy of our Residents. 
-Building the Economy and Culture of Praxis:
-        Building businesses on/in Praxis
-        Construction in Praxis
-        Moving to Praxis
-        Building the movement
-        Art
-    Building Praxis Infrastructure:
-        Governance
-        Policy
-        Physical Infrastructure
-        Social Infrastructure
-        Institutions
 
 
 On open source
