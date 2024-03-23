@@ -47,6 +47,3 @@ Get paid
 
 
 
-
-FAQ
-BOUNTY
