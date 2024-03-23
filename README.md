@@ -1,4 +1,4 @@
-# Example-Society-as-an-Open-Source-Project
+# Example-Society-as-an-Open-Source-GitHub-Project
 Designing a society through an open source GitHub project. Example with component files created from Notes on the Synthesis of Form by Christopher Alexander "The Determination of Components for an Indian Village" and issues created with information from Praxis. Direct words used from both. Open source and bounty approach inspired by/copied @geohot.
 
 Why an open source GitHub?
