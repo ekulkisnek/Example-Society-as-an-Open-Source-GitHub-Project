@@ -4,20 +4,20 @@ Designing a society through an open source GitHub project. Example with componen
 Why an open source GitHub?
 Building entirely in the open with a public source code. Anyone can read and understand the complete design, propose modifications, create forks. Pull request as resume. With motivation and skills you can start from anywhere. Gatekeeping as answering questions. If people can't answer these sorts of questions, you shouldn't work with them. Giving the individual irrevocable power and new abilities to build worlds. Advancing this technology to allow creation of specialized ideal societies. Raising the bar for open source. Competitions selecting for ability and quickness. Contribution measured in quality of code. 
 
-Bounties(Issues):
+Bounties(Issues):  
 Choose a bounty(issue), solve it(pull request), and repeat. That’s it! 
 
 Rules:
-    code must be merged into master to get paid.
-    bounty eligibility is solely at our discretion.
-    get an extra 20% if you redeem your bounty in credit.
+    code must be merged into master to get paid.  
+    bounty eligibility is solely at our discretion.  
+    get an extra 20% if you redeem your bounty in credit.  
     
-Bounty $ Values:
-   $100 - a few hours of work for an experienced developer; a good intro for someone new
-    $300 - a day of work for an experienced developer
-    $500 - a few days of work for an experienced developer
-    $1000 - a week or two of work (could be less for the right person)
-    $1000+ bounties require planning and thought and likely a solid week+ of work. you probably should have done other bounties first. i'm happy to give feedback on serious proposals
+Bounty $ Values:  
+   $100 - a few hours of work for an experienced developer; a good intro for someone new  
+    $300 - a day of work for an experienced developer  
+    $500 - a few days of work for an experienced developer  
+    $1000 - a week or two of work (could be less for the right person)  
+    $1000+ bounties require planning and thought and likely a solid week+ of work. you probably should have done other bounties first. i'm happy to give feedback on serious proposals  
     
 If you would like to sponsor a new bounty, e-mail x@x.org Please include a clear description and a dollar amount.
 
