@@ -7,7 +7,7 @@ Building entirely in the open with a public source code. Anyone can read and und
 Bounties(Issues):  
 Choose a bounty(issue), solve it(pull request) and repeat. That’s it! 
 
-Rules:
+Rules:  
     code must be merged into master to get paid.  
     bounty eligibility is solely at our discretion.  
     get an extra 20% if you redeem your bounty in credit.  
