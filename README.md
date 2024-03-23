@@ -1,5 +1,5 @@
 # Example-Society-as-an-Open-Source-Project
-Designing a city through an open source github project. Example with information from Notes on the Synthesis of Form by Christopher Alexander "The Determination of Components for an Indian Village" and information from Praxis. Direct words used from both. Also inspired by @geohotz George Hotz
+Designing a society through an open source github project. Example with component files created from Notes on the Synthesis of Form by Christopher Alexander "The Determination of Components for an Indian Village" and issues created with information from Praxis. Direct words used from both. Open source and bounty approach inspired by @geohotz George Hotz.
 
 Twitter + discord integration
 
