@@ -5,9 +5,7 @@ Why an open source GitHub?
 Building entirely in the open with a public source code. Anyone can read and understand the complete design, propose modifications, create forks. Pull request as resume. With motivation and skills you can start from anywhere. Gatekeeping as answering questions. If people can't answer these sorts of questions, you shouldn't work with them. Giving the individual irrevocable power and new abilities to build worlds. Advancing this technology to allow creation of specialized ideal societies. Raising the bar for open source. Competitions selecting for ability and quickness. Contribution measured in quality of code. 
 
 Bounties(Issues):  
-Choose a bounty(issue)  
-solve it(pull request)  
-and repeat. That’s it! 
+Choose a bounty(issue), solve it(pull request) and repeat. That’s it! 
 
 Rules:
     code must be merged into master to get paid.  
